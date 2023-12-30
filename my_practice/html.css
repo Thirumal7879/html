@@ -1,0 +1,35 @@
+
+.thiru {
+    background-color: rgb(150, 196, 148);
+    border: 5px solid rgb(245, 6, 6);
+    margin-top: 10vh;
+    height: 15%;
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banny{
+
+    background-color: brown;
+    border: 5px solid black;
+    margin-left: 5vh;
+    height: 15%;
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 45%;
+
+}
+
+.jummy{
+    border: 5px solid pink ;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
